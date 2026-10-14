@@ -1,4 +1,4 @@
-# 🍳 BiteCraft AI
+# BiteCraft AI
 
 > A smart pantry tracker that turns the ingredients you already own into AI-generated recipes — respecting your dietary needs and use-it-before-it-expires priorities.
 
